@@ -4,7 +4,7 @@ To get a local copy of the project, run the following command in your terminal:
 
 ```bash
 git clone https://github.com/Vooldz/Bank-System.git
-
+```
 ## 🧪 Sample Output
 
 ```text
@@ -31,3 +31,4 @@ Date: 7/7/2025
     [10] Logout.
 ===========================================
 Choose what do you want to do? [1 to 10]?
+```
