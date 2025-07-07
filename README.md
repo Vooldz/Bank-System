@@ -32,3 +32,10 @@ Date: 7/7/2025
 ===========================================
 Choose what do you want to do? [1 to 10]?
 ```
+
+## 🔐 Login Credentials
+
+You can log in to the system using the following default credentials:
+
+- **Username:** Admin  
+- **Password:** 1234
